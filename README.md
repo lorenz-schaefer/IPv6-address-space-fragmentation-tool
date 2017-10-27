@@ -6,9 +6,9 @@ which will be colored in the matrix and displayed in a label accordingly.
 
 Usage:
 By opening the programm you are automatically put on a blank setup, which you can instanty start to design and save it later.
-
+![alt text](https://raw.githubusercontent.com/lorenz-schaefer/IPv6-address-space-fragmentation-tool/master/Documentation/tool-screenshot1.png)
 When you know how the blocks, that are going to be assigned, are called, 
-selct a colour for the block(or just use the already shown example colour) and create a new radiobutton, 
+select a colour for the block(or just use the already shown example colour) and create a new radiobutton, 
 naming it accordingly(The colour, the button will have, is shown by the "create new button"-button background colour).
 If you created a radiobutton with a wrong description or a typo, 
 just click  the "delete subnet"-button and then click on the radiobutton to delete it.
