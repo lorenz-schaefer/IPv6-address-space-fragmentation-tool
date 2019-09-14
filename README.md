@@ -1,10 +1,10 @@
 # IPv6-address-space-fragmentation-tool
 
-##Description:
+## Description:
 This tool should make the assignment of IPv6 address blocks more manageable and easier to comprehend by showing the available address space in an 8-bit matrix. 
 In the left frame you can create radio buttons, assign them a name, a colour and finally a certain address space, which will be colored in the matrix and displayed in a label accordingly.
 
-##Usage:
+## Usage:
 By opening the program you are automatically put on a blank setup, where you can instantly start to design and save it later.
 
 ![alt text](https://raw.githubusercontent.com/lorenz-schaefer/IPv6-address-space-fragmentation-tool/master/Documentation/tool-screenshot1.png)
